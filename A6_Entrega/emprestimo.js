@@ -1,6 +1,6 @@
-const rendimentoMensal = 3000;
-const idade = 25;
-const temDividas = false;
+const rendimentoMensal = 2500;
+const idade = 45;
+const temDividas = true;
 const anosTrabalho = 2;
 
 if (rendimentoMensal >= 3000 && idade >= 25) {
